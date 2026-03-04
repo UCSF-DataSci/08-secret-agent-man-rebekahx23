@@ -1,0 +1,73 @@
+{
+  "killer": "Larry",
+  "weapon": "Antler trophy",
+  "motive": "Marcus's discovery of $200K in old coins and the tension over the cabin's future",
+  "evidence": [
+    "The antler trophy wiped clean of fingerprints, suggesting it was used as a weapon",
+    "Larry's damp hiking boots with fresh mud, contradicting his alibi of not going outside",
+    "Marcus's last text message indicating a conflict over ownership of something valuable",
+    "The unlocked back door, allowing for easy access to the cabin after dinner",
+    "The small smear on the carpet near Larry's room, possibly indicating a struggle or confrontation",
+    "The hastily removed rubber gloves, suggesting an attempt to conceal evidence",
+    "Diana's heated discussion with Marcus about the cabin, indicating a motive for conflict",
+    "Sofia's camera capturing the living room, potentially documenting the events leading to the murder"
+  ],
+  "transcript": [
+    {
+      "action": "search",
+      "detail": "Searched Living Room"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Kitchen"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Mudroom / Back Entry"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Upstairs Hallway"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Back Porch"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Marcus's Bedroom"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: What was discussed during the late-night conversation between you and Marcus?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: Why do your hiking boots have fresh mud on them when you claim you didn't go out"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What did you hear when Diana's door was opening and closing around 11pm?"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What were you photographing at the time of Marcus's death?"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was taking long-exposure photos of the snowfall. The way the light reflects off the snow can creat"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: We discussed the future of the cabin, specifically his plans to sell it. I was quite upset to learn "
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, uh, those boots? I must have stepped in some mud earlier in the day, you know how it is! I was j"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I didn't hear much specifically from Diana's room, but I did notice some commotion downstairs earlie"
+    }
+  ]
+}
